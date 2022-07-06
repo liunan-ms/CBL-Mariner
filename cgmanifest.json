@@ -6520,6 +6520,16 @@
       "component": {
         "type": "other",
         "other": {
+          "name": "intel-pf-bb-config",
+          "version": "21.11",
+          "downloadUrl": "https://github.com/intel/pf-bb-config/archive/v21.11.tar.gz"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "other",
+        "other": {
           "name": "intltool",
           "version": "0.51.0",
           "downloadUrl": "https://launchpad.net/intltool/trunk/0.51.0/+download/intltool-0.51.0.tar.gz"
